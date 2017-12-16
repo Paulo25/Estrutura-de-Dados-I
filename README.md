@@ -1,2 +1,2 @@
-# Estrutura-de-Dados-I
-Projeto da faculdade, utilizando conhecimentos de manipulação de dados em uma estrutura em "C".
+# Estrutura-de-Dados-I: Lista-Encadeada
+Projeto da faculdade, utilizando conhecimentos de manipulação de dados em uma estrutura de Lista Encadeada em "C".
